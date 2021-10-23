@@ -19,7 +19,7 @@ nav{
     position: fixed;
     width: 100%;
     height: 80px;
-    background: #1b1b1b;
+    background: #1b1b1b81;
     display: flex;
     align-items: center;
     justify-content: space-between;
